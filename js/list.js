@@ -80,10 +80,10 @@ const d = {
 				{
                 "vids": [
 				{
-					"user": "FrostBurn",
-					"link": "https://youtu.be/F7DK-G9m0Eo",
+					"user": "",
+					"link": "",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "60hz"
 				}, 
 		         ],
                        "name": "HowToMakeALayout",
@@ -124,13 +124,13 @@ const d = {
 					"hz": "288hz"
 				},
 			],
-			"name": "Shitty Delta Interface",
-			"author": "MP3141",
+			"name": "PTMZPDW",
+			"author": "TheSaulo",
 			"more": "none",
 			"id": 63075127,
 			"pass": "Free copy",
 			"percentToQualify": 58,
-			"verificationVid": "https://youtu.be/OKzW5Bbhyks",
+			"verificationVid": "",
 			"key": 6
 		},
 		/*=================================================================================*/
@@ -143,8 +143,8 @@ const d = {
 					"hz": "144hz"
 				},
 		         ],
-                       "name": "Shitty Removed Submission",
-                       "author": "v1nnyy and xSmajlik [v1nnyy]",
+                       "name": "Nine Circles",
+                       "author": "Zobros.",
                        "more": "none",
                        "id": 63781808,
                        "pass": "Free to copy",
