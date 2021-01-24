@@ -3,12 +3,6 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-        {
-          "user": "RobZenW",
-          "link": "https://youtu.be/JE2_pruJekw",
-          "percent": 100,
-          "hz": "60hz"
-        },
       ],
       "name": "Make It",
       "author": "RobZenW",
@@ -35,12 +29,6 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-        {
-          "user": "Covieta",
-          "link": "https://youtu.be/PpeFax-Obxw",
-          "percent": 100,
-          "hz": "288hz"
-        },
       ],
       "name": "Place On Fire",
       "author": "ItzMashiK",
@@ -54,12 +42,6 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-        {
-          "user": "Covieta",
-          "link": "https://youtu.be/hmP37CaGpLw",
-          "percent": 100,
-          "hz": "288hz"
-        },
       ],
       "name": "CH 69",
       "author": "LucVezzito",
@@ -73,12 +55,6 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-        {
-          "user": "",
-          "link": "",
-          "percent": 100,
-          "hz": "60hz"
-        },
       ],
       "name": "HowToMakeALayout",
       "author": "TheSaulo And DobleKZ [TheSaulo]",
@@ -92,12 +68,6 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-        {
-          "user": "Aquii",
-          "link": "https://youtu.be/TjC-abW7wEM",
-          "percent": 100,
-          "hz": "240hz"
-        },
       ],
       "name": "Untitiled Beat",
       "author": "ZarnitS",
@@ -111,12 +81,6 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-        {
-          "user": "Covieta",
-          "link": "https://youtu.be/vkxPEt-1BwY",
-          "percent": 100,
-          "hz": "288hz"
-        },
       ],
       "name": "PTMZPDW",
       "author": "TheSaulo",
@@ -130,12 +94,6 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-        {
-          "user": "MP3141",
-          "link": "https://youtu.be/t0O89pt33Us",
-          "percent": 100,
-          "hz": "144hz"
-        },
       ],
       "name": "Nine Circles",
       "author": "Zobros.",
@@ -149,12 +107,6 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-        {
-          "user": "GDMeric",
-          "link": "https://youtu.be/x3faOfnmbUE",
-          "percent": 100,
-          "hz": "144hz"
-        },
       ],
       "name": "Shitty Balengu Vortex",
       "author": "MythicalTG",
@@ -168,12 +120,6 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-        {
-          "user": "GDCailloux",
-          "link": "https://www.youtube.com/watch?v=GPUUNW0dfiQ&feature=youtu.be",
-          "percent": 92,
-          "hz": "300hz"
-        },
       ],
       "name": "Shitty Zaphkiel",
       "author": "Serpyy [XanPlayzGamez]",
