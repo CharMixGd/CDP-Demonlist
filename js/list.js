@@ -4,10 +4,10 @@ const d = {
     {
       "vids": [
         {
-          "user": "Hixobit",
-          "link": "https://www.youtube.com/watch?v=3wvMMrxBkoU&feature=youtu.be",
+          "user": "RobZenW",
+          "link": "https://youtu.be/JE2_pruJekw",
           "percent": 100,
-          "hz": "300hz"
+          "hz": "60hz"
         },
       ],
       "name": "Make It",
@@ -15,26 +15,20 @@ const d = {
       "more": "none",
       "id": 63009517,
       "pass": "Free to copy",
-      "percentToQualify": 45,
+      "percentToQualify": 52,
       "verificationVid": "https://youtu.be/JE2_pruJekw",
       "key": 0
     },
     /*=================================================================================*/
     {
       "vids": [
-        {
-          "user": "Alphanetic",
-          "link": "https://www.twitch.tv/videos/750083147",
-          "percent": 100,
-          "hz": "165hz"
-        },
       ],
       "name": "Lightmare",
       "author": "TheSaulo",
       "more": "none",
       "id": 63348652,
       "pass": "Free to copy",
-      "percentToQualify": 64,
+      "percentToQualify": 49,
       "verificationVid": "https://youtu.be/m-BlqHRon7Y",
       "key": 1
     },
